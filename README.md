@@ -8,4 +8,5 @@ Build a python package including Gaussian distribution and Binomial classes.
 - Construct a model using XGBoost to perform Boston housing price prediction.
 - Construct a model using XGBoost to perform sentiment analysis on the IMDB dataset.
 
+## Project3: Implement two machine learning models based on deep convolutional neural network to perform dog breed classification.
 
